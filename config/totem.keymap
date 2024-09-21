@@ -114,7 +114,7 @@
             &kp ESC       &kp N7  &kp N8  &kp N9  &kp LBRC    &kp RBRC  &kp RC(LS(TAB))  &kp UP_ARROW  &kp RC(TAB)  &kp KP_PLUS
             &kp LSHFT     &kp N4  &kp N5  &kp N6  &kp LBKT    &kp RBKT  &kp LEFT         &kp DOWN      &kp RIGHT    &kp KP_MINUS
 &bt BT_CLR  &kp NUMBER_0  &kp N1  &kp N2  &kp N3  &kp LPAR    &kp RPAR  &kp KP_N1        &kp KP_N2     &kp EQUAL    &kp KP_MULTIPLY  &trans
-                                  &trans  &trans  &trans      &mo ADJ   &kp KP_N0        &trans
+                                  &trans  &trans  &trans      &mo ADJ   &kp LS(MINUS)    &trans
             >;
         };
 
